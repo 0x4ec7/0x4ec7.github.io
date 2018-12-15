@@ -1,0 +1,3 @@
+* zhidong.me
+Personal website, partly hosted on github pages.
+Checkout: https://zhidong.me
